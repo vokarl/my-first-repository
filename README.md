@@ -9,7 +9,7 @@ I’m currently learning html, css and JavaScript.
 My hobbies are playing table tennis, swimming and biking.
 
 
-
+---
 
 >How to reach me: karl.vogl@gmx.de
 
