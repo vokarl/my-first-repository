@@ -13,5 +13,10 @@ My hobbies are playing table tennis, swimming and biking.
 
 >How to reach me: karl.vogl@gmx.de
 
+
+
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
  
 
